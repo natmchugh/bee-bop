@@ -1,5 +1,12 @@
 {
-	"require": {
-		"catfishphp/noop": "dev-master"	
-	}
+    "name": "nathanielmchugh/bee-bop",
+    "description": "This is a test package do not use",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "BeEbOp"
+        }
+    ],
+    "require": {}
 }
