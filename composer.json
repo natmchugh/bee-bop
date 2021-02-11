@@ -1,12 +1,12 @@
 {
-    "name": "nathanielmchugh/bee-bop",
+    "name": "maple-syrup-group/bee-bop",
     "description": "This is a test package do not use",
     "type": "project",
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "BeEbOp",
-	    "email": "not an email address"
+	    "email": "\"<imvalid>\"@gmail.com"
         }
     ],
     "require": {}
